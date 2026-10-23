@@ -1,2 +1,2 @@
-# Praktiku_Dasar-Pemrograman
+# Praktikum_Dasar-Pemrograman
 repository praktikum perkuliahan mata kuliah dasar pemrograman
